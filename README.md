@@ -1,17 +1,13 @@
-  <h1 align="center">Hi 👋, I'm Maxime</h1>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=maax6&label=Profile%20views&color=0e75b6&style=flat" alt="maax6" /> </p>
-
+ <h1 align="center">Hi 👋, I'm Maxime</h1>
  <h3 align="center"> Développeur web junior  </h3>
-
-
-
-
+ 
+<img align="right" alt="Coding" width="200" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 J'aime découvrir de nouvelles technologies, de nouveaux outils, les utiliser et construire des solutions efficaces. Je suis déterminé à apprendre constamment et à développer mes compétences pour devenir un expert dans le domaine du développement.
 
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maax6" alt="maax6" /></a> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maax6&label=Profile%20views&color=0e75b6&style=flat" alt="maax6" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/maxime-sauz%c3%a9at-04a69821b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maxime-sauz%c3%a9at-04a69821b/" height="30" width="40" /></a>
@@ -23,4 +19,4 @@ J'aime découvrir de nouvelles technologies, de nouveaux outils, les utiliser et
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maax6&show_icons=true&locale=en&layout=compact" alt="maax6" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maax6&" alt="maax6" /></p>
-<img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif">
+
