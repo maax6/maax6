@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Maxime</h1>
- <h3 align="center"> Intégrateur web  </h3>
+ <h3 align="center"> Développeur web / Aspirant consultant en Cybersécurité  </h3>
  
 <img align="right" alt="Coding" width="200" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 J'aime découvrir de nouvelles technologies, de nouveaux outils, les utiliser et construire des solutions efficaces. J'apprend constamment à développer mes compétences pour devenir un expert dans le domaine du développement.
