@@ -2,7 +2,7 @@
  
 #  whoami:
 <img align="right" alt="Coding" width="200" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
-French<br>Web Developement - RNCP 5 <br>Student école2600🏴‍☠️<br>Expert in Systems, Network and Data Security - RNCP 7 <br>Part of ethical hacking<br>Automation workflows<br>Open source<br>Cocktails apps
+French<br>Expert in Systems, Network and Data Security - RNCP 7 <br>Student école2600🏴‍☠️<br>Web Developement - RNCP 5 <br>Part of ethical hacking<br>Automation workflows<br>Open source<br>Cocktails apps
 
 
 # 💻 Some Tools I like:
