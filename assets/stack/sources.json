@@ -1,0 +1,315 @@
+{
+  "note": "Badges rendered by Shields.io. Brand artwork from Simple Icons or the official project sites below. No endorsement implied.",
+  "logos": [
+    {
+      "tool": "Root-Me",
+      "provider": "Simple Icons",
+      "logo": "rootme",
+      "badge": "https://img.shields.io/badge/Root--Me-000000?style=flat-square&logo=rootme&logoColor=white"
+    },
+    {
+      "tool": "mitmproxy",
+      "source": "https://mitmproxy.org/favicon.ico",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Playwright",
+      "source": "https://playwright.dev/img/playwright-logo.ico",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Nmap",
+      "source": "https://nmap.org/shared/images/tiny-eyeicon.png",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Ncat",
+      "source": "https://nmap.org/shared/images/tiny-eyeicon.png",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Ndiff",
+      "source": "https://nmap.org/shared/images/tiny-eyeicon.png",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Nping",
+      "source": "https://nmap.org/nping/images/logos/nping_logo_257x423.png",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Wireshark",
+      "provider": "Simple Icons",
+      "logo": "wireshark",
+      "badge": "https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"
+    },
+    {
+      "tool": "TShark",
+      "provider": "Simple Icons",
+      "logo": "wireshark",
+      "badge": "https://img.shields.io/badge/TShark-1679A7?style=flat-square&logo=wireshark&logoColor=white"
+    },
+    {
+      "tool": "tcpdump",
+      "source": "https://www.tcpdump.org/images/logo.png",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Burp Suite",
+      "provider": "Simple Icons",
+      "logo": "burpsuite",
+      "badge": "https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"
+    },
+    {
+      "tool": "Burp Collaborator",
+      "provider": "Simple Icons",
+      "logo": "burpsuite",
+      "badge": "https://img.shields.io/badge/Burp_Collaborator-FF6633?style=flat-square&logo=burpsuite&logoColor=white"
+    },
+    {
+      "tool": "Exegol",
+      "source": "https://docs.exegol.com/images/Exegol_Symbol_DarkVersion.svg",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "curl",
+      "provider": "Simple Icons",
+      "logo": "curl",
+      "badge": "https://img.shields.io/badge/curl-073551?style=flat-square&logo=curl&logoColor=white"
+    },
+    {
+      "tool": "OpenSSL",
+      "provider": "Simple Icons",
+      "logo": "openssl",
+      "badge": "https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white"
+    },
+    {
+      "tool": "Webhook.site",
+      "source": "https://webhook.site/assets/icons/apple-touch-icon.png",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Chrome DevTools",
+      "provider": "Simple Icons",
+      "logo": "googlechrome",
+      "badge": "https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white"
+    },
+    {
+      "tool": "AlienVault OTX",
+      "source": "https://otx.alienvault.com/favicon.ico",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "urlscan",
+      "source": "https://urlscan.io/img/urlscan_256.png",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "abuse.ch",
+      "provider": "Simple Icons",
+      "logo": "abusedotch",
+      "badge": "https://img.shields.io/badge/ThreatFox_%2F_MalwareBazaar-00465B?style=flat-square&logo=abusedotch&logoColor=white"
+    },
+    {
+      "tool": "Maltego",
+      "source": "https://www.maltego.com/img/maltego-logo/Maltego-Logo-Compact-Greyblue.svg",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Shodan",
+      "source": "https://www.shodan.io/static/img/apple-touch-icon-192.png",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Censys",
+      "source": "https://files.readme.io/1e0a3a23c9480b17e6ee520b52147d40b03833fb0532e33a029b757882dceab4-Censys_Favicon.ico",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Onyphe",
+      "source": "https://www.onyphe.io/assets/img/logo/android-chrome-192x192.png",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Netlas",
+      "source": "https://netlas.io/images/favicon_hu_2fd9a98bb47433b.png",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "ZoomEye",
+      "source": "https://www.zoomeye.ai/static/public/favicon.ico",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Criminal IP",
+      "source": "https://www.criminalip.io/favicon.ico",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "LeakIX",
+      "source": "https://leakix.net/public/img/favicon/favicon-32x32.png",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Pulsedive",
+      "source": "https://pulsedive.com/img/favicon.png",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "OpenCTI",
+      "source": "https://raw.githubusercontent.com/OpenCTI-Platform/opencti/master/opencti-platform/opencti-front/public/assets/static/favicon.png",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "MISP",
+      "source": "https://raw.githubusercontent.com/MISP/MISP/2.5/app/webroot/img/favicon.png",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "URLhaus",
+      "provider": "Simple Icons",
+      "logo": "abusedotch",
+      "badge": "https://img.shields.io/badge/URLhaus-00465B?style=flat-square&logo=abusedotch&logoColor=white"
+    },
+    {
+      "tool": "PhishTank",
+      "source": "https://phishtank.org/favicon.ico",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "CertSpotter",
+      "source": "https://sslmate.com/assets/@faafe50b54dfb91476c01374043f217c.png",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "DNSDumpster",
+      "source": "https://dnsdumpster.com/static/favicon.ico?v=73442bf9b1",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "HackerTarget",
+      "source": "https://hackertarget.com/wp-content/uploads/2018/03/hackertarget-logo-square.png",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Mnemonic pDNS",
+      "source": "https://www.mnemonic.io/Frontend/dist/favicon-32x32.png",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Whoxy",
+      "source": "https://www.whoxy.com/favicon.ico",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Wayback Machine",
+      "provider": "Simple Icons",
+      "logo": "internetarchive",
+      "badge": "https://img.shields.io/badge/Wayback_Machine-444444?style=flat-square&logo=internetarchive&logoColor=white"
+    },
+    {
+      "tool": "CIRCL hashlookup",
+      "source": "https://www.circl.lu/assets/images/favicon.ico",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "CIRCL vuln-lookup",
+      "source": "https://www.circl.lu/assets/images/favicon.ico",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "EmailRep",
+      "source": "https://emailrep.io/assets/img/favicon.png",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Project Honey Pot",
+      "source": "https://www.projecthoneypot.org/favicon.ico",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Mistral",
+      "source": "https://mistral.ai/favicon.ico",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Qdrant",
+      "source": "https://qdrant.tech/favicon/favicon.ico",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "OpenRouter",
+      "source": "https://openrouter.ai/icon.png",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Anthropic",
+      "provider": "Simple Icons",
+      "logo": "anthropic",
+      "badge": "https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white"
+    },
+    {
+      "tool": "Transformers",
+      "provider": "Simple Icons",
+      "logo": "huggingface",
+      "badge": "https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"
+    },
+    {
+      "tool": "Hugging Face Datasets",
+      "provider": "Simple Icons",
+      "logo": "huggingface",
+      "badge": "https://img.shields.io/badge/Hugging_Face_Datasets-FFD21E?style=flat-square&logo=huggingface&logoColor=black"
+    },
+    {
+      "tool": "Ragas",
+      "source": "https://raw.githubusercontent.com/vibrantlabsai/ragas/main/docs/_static/favicon.ico",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "NumPy",
+      "provider": "Simple Icons",
+      "logo": "numpy",
+      "badge": "https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"
+    },
+    {
+      "tool": "SearXNG",
+      "provider": "Simple Icons",
+      "logo": "searxng",
+      "badge": "https://img.shields.io/badge/SearXNG-3050FF?style=flat-square&logo=searxng&logoColor=white"
+    },
+    {
+      "tool": "OpenAI Codex",
+      "provider": "Simple Icons",
+      "logo": "openai",
+      "badge": "https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white"
+    },
+    {
+      "tool": "Neon",
+      "source": "https://neon.com/favicon/favicon.svg",
+      "badge_provider": "Shields.io"
+    },
+    {
+      "tool": "Drizzle ORM",
+      "provider": "Simple Icons",
+      "logo": "drizzle",
+      "badge": "https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black"
+    },
+    {
+      "tool": "pytest",
+      "provider": "Simple Icons",
+      "logo": "pytest",
+      "badge": "https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"
+    },
+    {
+      "tool": "Ruff",
+      "provider": "Simple Icons",
+      "logo": "ruff",
+      "badge": "https://img.shields.io/badge/Ruff-261230?style=flat-square&logo=ruff&logoColor=D7FF64"
+    },
+    {
+      "tool": "OrbStack",
+      "source": "https://orbstack.dev/img/icon128.png",
+      "badge_provider": "Shields.io"
+    }
+  ]
+}
