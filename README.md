@@ -1,9 +1,11 @@
 # whoami
 
+<p align="center">
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile/cyber-lab-transparent-still-v2.png">
-  <img align="right" alt="Isometric cybersecurity workspace with blinking green and amber network activity lights" width="320" src="assets/profile/cyber-lab-transparent-v2.png">
+  <img alt="Isometric cybersecurity workspace with blinking green and amber network activity lights" width="320" src="assets/profile/cyber-lab-transparent-v2.png">
 </picture>
+</p>
 
 **Cybersecurity, software development & automation.**
 
@@ -12,8 +14,6 @@ I’m a French developer working across cybersecurity, threat intelligence and a
 An école 2600 alumnus, I hold qualifications in Systems, Network and Data Security (RNCP Level 7) and Web Development (RNCP Level 5).
 
 Here you’ll find open-source projects, ethical hacking experiments, AI assistants — and the occasional cocktail app. 🍸
-
-<br clear="both">
 
 ## 🧰 Stack
 
